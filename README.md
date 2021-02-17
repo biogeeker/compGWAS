@@ -1,14 +1,14 @@
 # compGWAS
-An integrated toolkit for comprehensive GWA analysis of SNPs and Indels to identify the association between phenotypes and genotypes.
+An integrated toolkit for comprehensive GWAS analysis of SNPs and Indels to identify the association between phenotypes and genotypes.
 * [preGWAS](#preGWAS)
 
         Prepare the reference genome and annotation files
         
 * [GWAS](#GWAS)
 
-        GWA analysis of SNPs in the coding regions
-        GWA analysis of the synergistic effect of SNPs/Indels on CDS
-        GWA analysis of SNPs/Indels windows in the non-coding regions
+        GWAS analysis of SNPs in the coding regions
+        GWAS analysis of the synergistic effect of SNPs/Indels on CDS
+        GWAS analysis of SNPs/Indels windows in the non-coding regions
 
 * [GWASanno](#GWASanno)
 
